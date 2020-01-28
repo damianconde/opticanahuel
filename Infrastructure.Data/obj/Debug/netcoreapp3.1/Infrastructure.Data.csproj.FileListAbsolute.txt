@@ -1,0 +1,11 @@
+C:\Users\dconde\source\repos\OpticaNahuel\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.deps.json
+C:\Users\dconde\source\repos\OpticaNahuel\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+C:\Users\dconde\source\repos\OpticaNahuel\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+C:\Users\dconde\source\repos\OpticaNahuel\Infrastructure.Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\dconde\source\repos\OpticaNahuel\Infrastructure.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\dconde\source\repos\OpticaNahuel\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\dconde\source\repos\OpticaNahuel\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\dconde\source\repos\OpticaNahuel\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.AssemblyInfo.cs
+C:\Users\dconde\source\repos\OpticaNahuel\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.csproj.CopyComplete
+C:\Users\dconde\source\repos\OpticaNahuel\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.dll
+C:\Users\dconde\source\repos\OpticaNahuel\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.pdb

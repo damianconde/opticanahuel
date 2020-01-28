@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    @await Html.PartialAsync("_Head")
+</head>
+<body>
+    @await Html.PartialAsync("_Header")
+
+    <div class="container-fluid">
+        @RenderBody()
+    </div>
+
+    @await Html.PartialAsync("_Footer")
+    @await Html.PartialAsync("_Scripts")
+</body>
+</html>

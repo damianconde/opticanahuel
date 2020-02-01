@@ -120,3 +120,13 @@ C:\Users\dconde\source\repos\OpticaNahuel\BillingApi\obj\Debug\netcoreapp3.1\Web
 C:\Users\dconde\source\repos\OpticaNahuel\BillingApi\obj\Debug\netcoreapp3.1\Web.dll
 C:\Users\dconde\source\repos\OpticaNahuel\BillingApi\obj\Debug\netcoreapp3.1\Web.pdb
 C:\Users\dconde\source\repos\OpticaNahuel\BillingApi\obj\Debug\netcoreapp3.1\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dconde\source\repos\OpticaNahuel\BillingApi\bin\Debug\netcoreapp3.1\System.Net.Http.WinHttpHandler.dll
+C:\Users\dconde\source\repos\OpticaNahuel\BillingApi\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+C:\Users\dconde\source\repos\OpticaNahuel\BillingApi\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+C:\Users\dconde\source\repos\OpticaNahuel\BillingApi\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+C:\Users\dconde\source\repos\OpticaNahuel\BillingApi\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\dconde\source\repos\OpticaNahuel\BillingApi\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\dconde\source\repos\OpticaNahuel\BillingApi\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+C:\Users\dconde\source\repos\OpticaNahuel\BillingApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+C:\Users\dconde\source\repos\OpticaNahuel\BillingApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\dconde\source\repos\OpticaNahuel\BillingApi\bin\Debug\netcoreapp3.1\runtimes\win7\lib\netstandard2.0\System.Private.ServiceModel.dll

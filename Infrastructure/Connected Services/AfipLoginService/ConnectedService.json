@@ -1,0 +1,21 @@
+﻿{
+  "ProviderId": "Microsoft.VisualStudio.ConnectedService.Wcf",
+  "Version": "15.0.31022.994",
+  "ExtendedData": {
+    "inputs": [
+      "https://wsaahomo.afip.gov.ar/ws/services/LoginCms?wsdl"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, AfipLoginService"
+    ],
+    "references": [
+      "C:\\Users\\dconde\\source\\repos\\OpticaNahuel\\Infrastructure\\bin\\Debug\\netcoreapp3.1\\Domain.dll"
+    ],
+    "targetFramework": "netcoreapp3.1",
+    "typeReuseMode": "All"
+  }
+}

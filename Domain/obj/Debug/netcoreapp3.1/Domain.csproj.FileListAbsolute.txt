@@ -1,7 +1,6 @@
 C:\Users\dconde\source\repos\OpticaNahuel\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
 C:\Users\dconde\source\repos\OpticaNahuel\Domain\bin\Debug\netcoreapp3.1\Domain.dll
 C:\Users\dconde\source\repos\OpticaNahuel\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
-C:\Users\dconde\source\repos\OpticaNahuel\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
 C:\Users\dconde\source\repos\OpticaNahuel\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
 C:\Users\dconde\source\repos\OpticaNahuel\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
 C:\Users\dconde\source\repos\OpticaNahuel\Domain\obj\Debug\netcoreapp3.1\Domain.dll

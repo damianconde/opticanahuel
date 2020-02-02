@@ -27,6 +27,7 @@ namespace BillingApi
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDomain();
+            services.AddInfrastructure();
             services.AddMvc();
         }
 

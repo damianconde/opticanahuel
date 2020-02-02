@@ -7078,11 +7078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dconde\\source\\repos\\OpticaNahuel\\BillingApi\\Web.csproj",
+      "projectUniqueName": "C:\\Users\\dconde\\source\\repos\\OpticaNahuel\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "C:\\Users\\dconde\\source\\repos\\OpticaNahuel\\BillingApi\\Web.csproj",
+      "projectPath": "C:\\Users\\dconde\\source\\repos\\OpticaNahuel\\Web\\Web.csproj",
       "packagesPath": "C:\\Users\\dconde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dconde\\source\\repos\\OpticaNahuel\\BillingApi\\obj\\",
+      "outputPath": "C:\\Users\\dconde\\source\\repos\\OpticaNahuel\\Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
